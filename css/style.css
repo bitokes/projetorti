@@ -1,0 +1,29 @@
+section{
+    padding: 30px;
+    
+}
+
+body{
+    text-align: center;
+    background-color: #DEDBD8;
+}
+
+.card-footer{
+    background-color: #C3C49E;
+    
+}
+
+#formlogin{
+    margin-top: 7%;
+}
+
+#btnHistorico{
+    background-color: #C3C49E;
+
+}
+
+.cardimg{
+    align-items: center;
+
+}
+
